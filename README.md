@@ -10,6 +10,6 @@ para a comparação de dois aspectos dos dados obtidos via Kangle
 
   ![plot](canada.png)
   
-  ![plot](canada_analysis.png)
+ 
   
 
