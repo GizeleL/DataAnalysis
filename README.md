@@ -5,5 +5,7 @@ para a comparação de dois aspectos dos dados obtidos via Kangle
   
 ## Análise das populações imigrantes no canadá
 * No arquivo canada_analysis.ipynb importo dados para comparar os dados de imigração de brasileiros com outros imigrantes da américa latina
+
+  ![plot](canada.png)
   
   ![plot](canada_analysis.png)
